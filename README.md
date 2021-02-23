@@ -39,4 +39,8 @@ After that I changed the formula for every row to represent the goal range.
 
 ![Countif >1000_<4999](https://github.com/jackogross123/Kickstarter-analysis/blob/main/Resources/Countif_%3E1000_%3C4999.png)
 
+Once I completed the Number Succesful column, I moved to the number failed column. I had to tweek the formula a little to count the Failed campaigns. The formula for this reads: =COUNTIFS(Kickstarter!D:D,"<1000",Kickstarter!F:F,"Failed",Kickstarter!R:R,"plays"). 
+
+![Countif_Failed](https://github.com/jackogross123/Kickstarter-analysis/blob/main/Resources/Countif_Failed.png)
+
 ![Outcomes_vs_Goals](https://github.com/jackogross123/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
