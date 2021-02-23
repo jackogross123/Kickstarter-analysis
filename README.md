@@ -1,4 +1,8 @@
-# Kickstarter-analysis
-## An Analysis of Kickstarter Campaigns
-
-Louise should try and get her play produced for less than $4,000. Half of the campaign goals are less than $2,000, over the 3rd quartile for amounts pledged. Since the mean is higher than the median of the goals and pledges for both successful and failed fundraisers - the data is skewed to the right. 
+# Kickstarting with Excel
+## An Analysis of a dataset of Kickstarter Fundraising Efforts.
+### The purpose 
+The purpose of the anaylsis was to determine how different factors contributed to the outcome of the fundraising campaign. The four different outcomes of the campaign were successful, failed, cancelled, and live.
+## Two different analysis' 
+Louise wanted to know how fundraiser launch date and goal impacted the outcome of the the fundraising campaign. Louise wants to take this information and apply it to her own play, *Fever.*
+### Analysis of Outcomes Based on Launch Date!
+[Outcomes_vs_Goals.png](path/to/Outcomes_vs_Goals.png)
