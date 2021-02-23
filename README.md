@@ -17,7 +17,7 @@ After the pivot table was filtered and sorted correctly, I added a pivot chart t
 
 One of the biggest challanges I had with challenge number 1 was getting my pivot table to sort by months as opposed to the whole date of the fundraising campaign. I solved this issue by adding a "Months" column to the Kickstarter sheet. To find this I used the TEXT formula on the Date Created Conversion column to only depict the abbreviation of the month with "MMM". The formula can be seen in the image below.
 
-![Months_Column](https://github.com/jackogross123/Kickstarter-analysis/blob/main/Resources/Months_Column.png)
+![Months_Column_Formula](https://github.com/jackogross123/Kickstarter-analysis/blob/main/Resources/Months_Column_Formula.png)
 
 ### Challenge 2: Analysis of Outcomes Based on Goals
 
