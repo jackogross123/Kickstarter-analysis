@@ -56,3 +56,29 @@ I changed this formula to fill the rest of the "Number Failed" column and then f
 #### Challenges
 
 The biggest challenge that I had with this challenge was creating the correct countif forumla. I have experience with countifs so I felt a little comfortable going into this part of the assignmen, but it took lots of trial and error. At first, I had troubles with narrowing down the formula to only include plays. Once I figured this out I was still having trouble matching my table with the one provided in the instructions. I then realized that I was only include ">" and "<" in the formulas and not =. I realized that I needed to include greater than or equal to and less than equal to get the correct information. Once I recognized this, I added equal signs to all of the forumals for all levels higher than "Less than 1000." With these corrections I finally matched my table and graph with the sample ones in the assignment instructions. 
+
+## Results
+### Theater Outcomes by Launch Date
+
+The first conclusion that I drew from the 1st challenge (Theater Outcomes by Launch Date) is that the most amount of kickstarter campaigns are launched in May. The From the dataset, the most amount of Successful outcomes are seen in the month of May. At first look, I saw that in May the most amount of Successful campaigns were created. May also had the most amount of campaigns started, so I found the percentage of sucessful outcomes for each month and found that May had the highest. Approximently 67% of all campaigns started in May were successful. 
+
+![Percentage_of_Successful_Campaigns](https://github.com/jackogross123/Kickstarter-analysis/blob/main/Resources/Percentage_of_Successful_Campaigns.png)
+
+As it can be see from this image, Louise has the best chance of running a successful campaign if she starts it in May. While May also has the highest amount of failed campaigns, the percentage of Successful outcomes out of the grand total is highest in May.
+
+Another observation that can be made from the Theater Outcomes Based on Launch Date graph is that December is the worst month of the year to launch a kickstarter campaign for Theater project. Only 49% of the projects launched in December were Successful.
+
+### Outcomes Based on Goal 
+
+Lots of interesting conclusions can be drawn from the Outcomes Based on Goal chart. First, the highest percentage of successful outcomes fall in the "less than 1000" level. Approximently 76% of the play campaigns with goals less than 1000 were successful. Moreoever, 73% of campaigns with goals between 1000 and 4999 were successful. Following this, goals between 5000 and 34999 have lower success rates. At both the 35000 to 39999 and 40000 to 44999 levels 67% of the kickstarters were successful. 
+
+The worst fundraising level for campaigns was 45000 to 50000 level where only 1 campaign was ran and it failed. The 1000 to 4999 level is interesting because this was the level that the most campaigns were ran. Out of the 534 projects at that level, 73% were successful and 27% failed. Louise should use this information to set her fundraising campaign for her play. I'd reccomend that she sets a goal between 1000 and 4999.
+
+### Dataset Limitations
+
+I think that one of the biggest limitations of the dataset is that there is no information on the fundraisers themselves. I also think that it may be valuable to see the ways that the fundraising was carried out. Data on points of contact as well as how the fundraising was conducted. This may be benefical for Lousie to run the most successful campaign. Lousie could take this information and apply it to her campaign to use the most successful tactics.
+
+### Reccomendations 
+
+I think another chart or graph that should be created in analyzing the amount of donors compared to amount pledged and raised. I believe that it may be beneficial to see this relationship, especially if Louise is interested in garndering wider support as opposed to just fundraising from a few individuals. It may be valuable to also show the average donations compared to the total amount raised. Observe what campaigns have the most successful campaigns based off of average contributions.
+
