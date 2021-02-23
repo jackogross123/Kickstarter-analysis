@@ -9,6 +9,8 @@ The purpose of this analyis was to determine if the launch month of Theater fund
 
 To perform this analysis I created a pivot table of the entire Kickstarter data sheet. In the fields, I filtered by Parent Category and Years, added outcomes to the columns, added Months to the rows (Months is a column that I made on the kickstarter sheet to better visualize the data), and added Count of outcomes to the values field.
 
+Once I created the pivot table, I filtered the parent category to only show theater fundraising campaigns (subcatagories of theater include: plays, spaces, and musicals), filtered the outcomes to only include successful, cancelled, and failed, and sort the Months in ascending order.
+
 ![Theater_Outcomes_vs_Launch](https://github.com/jackogross123/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://github.com/jackogross123/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
